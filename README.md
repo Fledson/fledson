@@ -23,10 +23,8 @@
 
 ### Git Statistics
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe" />
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=" />
-</a>
+![Fledson's github stats](https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe)
+![Fledson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=400em)
 
 <p align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
