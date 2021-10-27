@@ -10,6 +10,12 @@
 - 🎓 I have a degree in Computer Science
 - 📚 I'm learning about the React universe
 - 📌 I live in São luis - MA
+- 😄 Thing i like: 
+  - 📖 Study
+  - 🎮 Playing
+  - 🎞️ Watching movies and anime
+  - 🎧 Listen to music
+  - 👦 Play with my son
 - 📫 Contact me:  <a href="https://www.imagensanimadas.com/cat-maos-81.htm"><img src="https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0090.gif" border="0" alt="mao-imagem-animada-0090" /></a> [Over Here](fledsonhenrique@gmail.com)
 
 <p align="center">
@@ -28,7 +34,7 @@
 ### Socials 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fledson-henrique-051a9513a/)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-%230D0D0D??style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://www.instagram.com/fledson_henrique/)
 <!--
 **Fledson/fledson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
