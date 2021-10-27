@@ -15,17 +15,18 @@
   - 🎮 Playing
   - 🎞️ Watching movies and anime
   - 🎧 Listen to music
-  - 👦 Play with my son
 - 📫 Contact me:  <a href="https://www.imagensanimadas.com/cat-maos-81.htm"><img src="https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0090.gif" border="0" alt="mao-imagem-animada-0090" /></a> [Over Here](fledsonhenrique@gmail.com)
 
 <p align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
 </p>
 
-### Git Statics
+### Git Statistics
 
-![Fledson's github stats](https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe)
-![Fledson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=445em)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=" />
+</a>
 
 <p align="center">
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
