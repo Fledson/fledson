@@ -24,8 +24,8 @@
 ### Git Statistics
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=" />
+  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&icon_color=fffffe" />
+  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&theme=dark&text_color=fffffe&card_width=" />
 </a>
 
 <p align="center">
