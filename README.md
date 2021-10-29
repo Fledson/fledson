@@ -34,8 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/fledson">
-  <img height="180em" width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&langs_count=7&theme=dark&hide_border=true&text_color=fffffe"/>
-  <img height="180em" width=400em src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=fffffe"/>
+  <img height=180em width=340em src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&langs_count=7&theme=dark&hide_border=true&text_color=fffffe"/>
+  <img height=180em width=400em src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=fffffe"/>
 </div>
   
 <p align="center">
