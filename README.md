@@ -1,62 +1,75 @@
-### ![hiGif](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hi there, I'm Fledson Henrique
+<h2 align="left">Hi 👋! I'm Fledson Henrique</h2>
 
-<p align="center">
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
-</p>
-  
-### 💬 About me
+###
 
-</div>
-  
-<img align="right" width="400" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4704zk9cnpi4cechij8v2carxpt6131q3ueq5307g5&rid=giphy.gif&ct=g" />
+<h3 align="left">💬 About me</h3>
 
-</div>
+###
 
-- 🔭 I am currently working as an IT support analyst at [Manná Automação](https://www.instagram.com/mannaautomacaoerp/)
-- 🎓 I have a degree in Computer Science
-- 📚 I'm learning about the React universe
-- 📌 I live in São luis - MA
-- 😄 Thing i like: 
-  - 📖 Study
-  - 🎮 Playing
-  - 🧒 Play with my son
-  - 🎞️ Watching movies and anime
-  - 🎧 Listen to music
-- 📫 Contact me:  <a href="https://www.imagensanimadas.com/cat-maos-81.htm"><img src="https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0090.gif" border="0" alt="mao-imagem-animada-0090" /></a> [Over Here](fledsonhenrique@gmail.com)
+<img align="right" height="180" src="https://camo.githubusercontent.com/900961311a4a5e1b83db4c9f14b9bdbfc4e1e2736d80d0c7da6152b29bb95291/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e6769663f6369643d656366303565343730347a6b39636e70693463656368696a387632636172787074363133317133756571353330376735267269643d67697068792e6769662663743d67"  />
 
+###
 
+<p align="left">- 🔭 I am currently working as an IT support analyst at [Manná Automação](https://www.instagram.com/mannaautomacaoerp/)<br>- 🎓 I have a degree in Computer Science<br>- 📚 I'm learning about the React universe<br>- 📌 I live in São luis - MA<br>- 😄 Thing i like: <br>  - 📖 Study<br>  - 🎮 Playing<br>  - 🧒 Play with my son<br>  - 🎞️ Watching movies and anime<br>  - 🎧 Listen to music</p>
 
-<p align="center">
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
-</p>
+###
 
-### 📊 Git Statistics
+<h2 align="left"></h2>
+
+###
+
+<h3 align="left">👨‍💻 Techs of Interest</h3>
+
+###
 
 <div align="center">
-  <a href="https://github.com/fledson">
-  <img height=180em width=335em src="https://github-readme-stats.vercel.app/api/top-langs/?username=fledson&layout=compact&langs_count=7&theme=dark&hide_border=true&text_color=fffffe"/>
-  <img height=180em width=400em src="https://github-readme-stats.vercel.app/api?username=fledson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=fffffe"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
 </div>
-  
-<p align="center">
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
-</p>
 
-### 👨‍💻 Techs of Interest
- 
-  #### 📓 Learning
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50em height=30em alt="JavaScript" /></a>
-  
-  #### 💡 Desired Skills
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50em height=30em alt="NodeJs" /></a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50em height=30em alt="Typescript" /></a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50em height=30em alt="ReactJs" /></a>
-   
-<p align="center">
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm" ><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0446.gif" width=1000em height=1em border="0" alt="linha-imagem-animada-0446" /></a>
-</p>
+###
 
-### 📰 Social Networks 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fledson" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fledson" height="150" alt="languages graph"  />
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fledson-henrique-051a9513a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%230D0D0D??style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://www.instagram.com/fledson_henrique/)
+###
+
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
+<h3 align="center">📰 Social Networks</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/fledson_henrique/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=#fff&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/Zihenx#3386" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=black&logoColor=white&labelColor=#fff&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="fledsonhenrique@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=#fff&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fledson-henrique-051a9513a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=#fff&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/fledson/fledson/blob/output/snake.svg" alt="Snake animation" />
+
+###
