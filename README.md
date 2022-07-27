@@ -69,4 +69,5 @@
 ###
 
 <br clear="both">
+
 <img href="https://raw.githubusercontent.com/fledson/fledson/blob/output/snake.svg" alt="Snake animation" />
