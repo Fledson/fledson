@@ -13,7 +13,7 @@
 <p align="left">
 - 🔭 Currently I work as Administrative Manager of Technical Support at <a href="https://www.instagram.com/mannaautomacaoerp/">Manná Automação</a> <br>
 - 🎓 I have a degree in Computer Science<br>
-- 📚 I'm upgrading React universe to frontend, NodeJs to backend<br>
+- 📚 I'm upgrading React universe to frontend, Java for backend<br>
 - 📌 I live in São luis - MA<br>
 - 😄 Thing i like: <br>
 - 📖 Study<br>  
