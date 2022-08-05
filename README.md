@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">- 🔭 I am currently working as an IT support analyst at [Manná Automação](https://www.instagram.com/mannaautomacaoerp/)<br>- 🎓 I have a degree in Computer Science<br>- 📚 I'm learning about the React universe<br>- 📌 I live in São luis - MA<br>- 😄 Thing i like: <br>  - 📖 Study<br>  - 🎮 Playing<br>  - 🧒 Play with my son<br>  - 🎞️ Watching movies and anime<br>  - 🎧 Listen to music</p>
+<p align="left">
+- 🔭 Currently I work as Administrative Manager of Technical Support at <a href="https://www.instagram.com/mannaautomacaoerp/">Manná Automação</a> <br>
+- 🎓 I have a degree in Computer Science<br>
+- 📚 I'm learning about the React universe<br>
+- 📌 I live in São luis - MA<br>
+- 😄 Thing i like: <br>
+- 📖 Study<br>  
+- 🎮 Playing<br>  
+- 🧒 Play with my son<br>  
+- 🎞️ Watching movies and anime<br>  
+- 🎧 Listen to music</p>
 
 ###
 
